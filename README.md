@@ -29,7 +29,7 @@ Vue.use( VueQueryFilter )
 this.$queryql
 ```
 
-`this.$queryql` is a reference to a new instance of the`QueryQl` object
+`this.$queryql` is a reference to a new instance of the `QueryQl` object
 
 e.g:
 
