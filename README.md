@@ -36,6 +36,6 @@ e.g:
 ```
 this.$queryql.getQueryString();
 ```
-More detailed usage docs can be found on the queryfilters [repository](https://github.com/sensorario/queryfilters)
+More detailed docs about queryfilters methods and usage can be found on the queryfilters [repository](https://github.com/sensorario/queryfilters)
 
 
