@@ -9,16 +9,16 @@ simply import the plugin and use it in your `main.js`, like is described in the 
 
 ```
 /*
-* Other imports
-* {...}
-*/
+ * Other imports
+ * {...}
+ */
 
 import VueQueryFilter  from 'vuequeryfilter'
 
 /*
-* Other Vue.use
-* {...}
-*/
+ * Other Vue.use
+ * {...}
+ */
 
 Vue.use( VueQueryFilter )
 ```
