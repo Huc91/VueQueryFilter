@@ -1,9 +1,9 @@
-import * as QueryQl from '@/../node_modules/queryfilters/dist/queryql-min.js'
+import QueryQl from 'queryfilters/dist/queryql';
 
 const VueQueryFilter = {
 	install( Vue ) {
 
-		const queryql = new QueryQl()
+		const queryql = new QueryQl();
 
     Vue.prototype.$queryql = queryql;
     Vue.queryql = queryql;
@@ -11,7 +11,7 @@ const VueQueryFilter = {
 	},
 }
 
-export default VueQueryFilter
+export default VueQueryFilter;
 
 // Automatic installation if Vue has been added to the global scope.
 if( typeof window !== 'undefined' && window.Vue && window.rollbarConfig )
