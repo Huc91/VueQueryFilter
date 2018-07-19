@@ -29,7 +29,8 @@ Use
 ```
 this.$queryql
 ```
-in your code to reference to the plugin object and his methods
+
+`this.$queryql` is a reference to a new instance of the`QueryQl` object
 
 e.g:
 
