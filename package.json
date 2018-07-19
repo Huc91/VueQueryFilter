@@ -1,0 +1,31 @@
+{
+  "name": "vuequeryfilter",
+  "version": "1.0.0",
+  "description": "Vue Plugin to wrap the queryfilters library by sensorario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huc91/VueQueryFilter.git"
+  },
+  "keywords": [
+    "queryfilters",
+    "huc",
+    "sensorario",
+    "mado",
+    "query-bundle",
+    "vue",
+    "plugin"
+  ],
+  "author": "Luca Ucciero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Huc91/VueQueryFilter/issues"
+  },
+  "homepage": "https://github.com/Huc91/VueQueryFilter#readme",
+  "dependencies": {
+    "queryfilters": "^0.3.23"
+  }
+}
