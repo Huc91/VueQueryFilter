@@ -7,7 +7,7 @@ Vue Plugin to wrap the [queryfilters](https://github.com/sensorario/queryfilters
 If you created your Vue project with [Vue CLI](https://cli.vuejs.org/)
 simply import the plugin and use it in your `main.js`, like is described in the [official Vue docs](https://vuejs.org/v2/guide/plugins.html)
 
-```
+``` javascript
 /*
  * Other imports
  * {...}
@@ -25,7 +25,7 @@ Vue.use( VueQueryFilter )
 
 ## Usage
 
-```
+``` javascript
 this.$queryql
 ```
 
@@ -33,7 +33,7 @@ this.$queryql
 
 e.g:
 
-```
+``` javascript
 this.$queryql.getQueryString();
 ```
 More detailed docs about queryfilters methods and usage can be found on the queryfilters [repository](https://github.com/sensorario/queryfilters)
