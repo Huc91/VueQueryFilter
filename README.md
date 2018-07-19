@@ -25,7 +25,6 @@ Vue.use( VueQueryFilter )
 
 ## Usage
 
-Use 
 ```
 this.$queryql
 ```
